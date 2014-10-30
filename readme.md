@@ -2,9 +2,9 @@ This project is leyser system's next generation prototype,for me.
 the main project hierarchy below:
 ## Framework Layer,include  
 
-  	authenticate manage,<br/>  
-	license manage,<br/>
-	logon manage,<br/>
+  	authenticate manage,
+	license manage,
+	logon manage,
 	master cache manage,
 	role,permission manage,
 	product service manage,
@@ -12,13 +12,16 @@ the main project hierarchy below:
 	main UI menu manage,
 	product version manage,
 	provide common functions,
-- Product Layser,include
+	
+## Product Layser,include
+
 	Kaikei product,
 	Gakuhi product,
 	Jinji product,
 	Shisan project,
 
-- per layser hierarchy below:
+## per layser hierarchy below:
+
 	api:
 	contains *.go files
 	static:
@@ -30,5 +33,6 @@ the main project hierarchy below:
 	verdor:
 	contains the third parties packages
 	
-- fiddle	
+## fiddle	
+
 	to verify some ideas or check some functions	

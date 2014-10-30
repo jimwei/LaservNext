@@ -1,11 +1,10 @@
 This project is leyser system's next generation prototype,for me.
 the main project hierarchy below:
-- Framework Layer,include  
+## Framework Layer,include  
 
-  	authenticate manage,  
-	
-	license manage,
-	logon manage,
+  	authenticate manage,<br/>  
+	license manage,<br/>
+	logon manage,<br/>
 	master cache manage,
 	role,permission manage,
 	product service manage,
